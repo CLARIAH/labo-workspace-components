@@ -93,13 +93,14 @@
     ],
     "targetProduct": [
         {
-            "@type": "SoftwareLibrary",
-            "executableName": "labo-workspace-components",
-            "name": "labo-workspace-components",
-            "runtimePlatform": [
-                "Linux"
-            ],
-            "description": "The Labo Workspace Components handle the dynamic front-end for the Clariah Media Suite related to a user's personal workspace, such as bookmarking"
+            "@type": "WebApplication",
+            "name": "CLARIAH Media Suite",
+            "url": "https://mediasuite.clariah.nl",
+            "provider": {
+                "@type": "Organization",
+                "name": "Netherlands Institute for Sound and Vision",
+                "url": "https://beeldengeluid.nl"
+            }
         }
     ],
     "dateCreated": "2023-11-21",
