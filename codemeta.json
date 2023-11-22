@@ -9,6 +9,7 @@
     "name": "Labo Workspace Components",
     "version": "2.0.1",
     "description": "The Labo Workspace Components handle the dynamic front-end for the Clariah Media Suite related to a user's personal workspace, such as bookmarking",
+    "license": "https://spdx.org/licenses/MIT.html",
     "url": "https://mediasuite.clariah.nl/",
     "producer": [
         {
